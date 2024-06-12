@@ -9,8 +9,8 @@ export default function Landing(){
         <div className="items-center justify-between bg-black max-h-screen">
             <Navbar />
             
-                <div className="mt-32">
-                    <h1 className="text-white pb-5 text-center text-9xl font-extrabold bg-clip-text text-transparent text-gradient">RegenSolar</h1>
+                <div className="mt-28">
+                    <h1 className="text-white pb-5 text-center text-8xl font-extrabold bg-clip-text text-transparent text-gradient">RegenSolar</h1>
                     <FlipWordsDemo />
                 </div>
 
