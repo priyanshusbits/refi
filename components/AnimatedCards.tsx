@@ -13,7 +13,7 @@ interface Item {
 
 let notifications = [
   {
-    name: "WeatherXM installation",
+    name: "Weather-Network installation",
     description: "stations",
     time: "",
 
@@ -22,7 +22,7 @@ let notifications = [
   },
   {
     name: "GenSensor Integration",
-    description: "SolarXM",
+    description: "RegenSolar",
     time: "",
     icon: "👤",
     color: "#FFB800",

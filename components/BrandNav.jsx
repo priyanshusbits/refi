@@ -13,7 +13,7 @@ export default function BrandNavbar() {
         <Link legacyBehavior href="/landing">
             <a href="#" className="flex items-center space-x-3 rtl:space-x-reverse">
                 <img src="https://static.vecteezy.com/system/resources/previews/001/194/541/original/lightning-png.png" className="h-8" alt="Flowbite Logo" />
-                <span className="self-center text-3xl font-semibold whitespace-nowrap ">SolarXM</span>
+                <span className="self-center text-3xl font-semibold whitespace-nowrap ">RegenSolar</span>
             </a>
             </Link>
 
