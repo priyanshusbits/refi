@@ -26,7 +26,8 @@ import {
   polygonAmoy,
   filecoinCalibration,
   sepolia,
-  arbitrumSepolia,
+  optimismSepolia,
+  celoAlfajores,
   zora,
 } from "wagmi/chains";
 
@@ -46,7 +47,7 @@ const config = getDefaultConfig({
     },
   ],
   chains: [
-    polygonAmoy,filecoinCalibration,arbitrumSepolia,
+    polygonAmoy,optimismSepolia,
     ...(process.env.NEXT_PUBLIC_ENABLE_TESTNETS === "true" ? [sepolia] : []),
   ],
   ssr: true,
