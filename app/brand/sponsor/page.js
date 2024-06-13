@@ -75,7 +75,7 @@ export default function Sponsor() {
           <mark className="bg-yellow-500 ml-3 rounded-lg px-3">
             Self Sufficient users
           </mark>{" "}
-          from harmony .
+          from RegenSolar .
         </h1>
 
         <div className="border-2 border-white py-5 mt-10 mx-60 rounded ">

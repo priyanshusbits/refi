@@ -32,7 +32,7 @@ export default function Brand() {
         </h1>
         <p></p>
         <p className="text-neutral-300 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
-        SolarXM introduces an innovative ecosystem to accelerate the adoption and generation of renewable energy. With the GenSensor technology, individuals can attach smart sensors to their green energy sources, like solar panels, to track and convert energy production into digital tokens. This mechanism not only encourages renewable energy generation but also allows for the creation and trade of green energy certificates in our marketplace, promoting transparency and economic activity within the green energy sector. 
+        RegenSolar introduces an innovative ecosystem to accelerate the adoption and generation of renewable energy. With the GenSensor technology, individuals can attach smart sensors to their green energy sources, like solar panels, to track and convert energy production into digital tokens. This mechanism not only encourages renewable energy generation but also allows for the creation and trade of green energy certificates in our marketplace, promoting transparency and economic activity within the green energy sector. 
         </p>
         <div className="flex flex-wrap content-center  justify-center">
         <button
@@ -42,7 +42,7 @@ export default function Brand() {
           console.log(res);
         }}
       >
-        {hasJoined ? "successfully joined" : "Join SolarXM"}
+        {hasJoined ? "successfully joined" : "Join RegenSolar"}
       </button>
       </div>
       </div>

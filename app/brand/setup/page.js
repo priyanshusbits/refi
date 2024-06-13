@@ -74,7 +74,7 @@ export default function Setup() {
         </form>
         <h1 className=" font-extrabold tracking-tight text-white text-5xl mx-10 py-3">
           Setup your brand Seamlessly with 
-          SolarXM.
+          RegenSolar.
         </h1>
       </div>
     </div>
