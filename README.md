@@ -2,6 +2,18 @@
 
 RegenSolar introduces an innovative ecosystem to accelerate the adoption and generation of renewable energy. With the GenSensor technology, individuals can attach smart sensors to their green energy sources, like solar panels, to track and convert energy production into digital tokens. This mechanism not only encourages renewable energy generation but also allows for the creation and trade of green energy certificates in our marketplace, promoting transparency and economic activity within the green energy sector. Addressing real-world problems, our project directly contributes to reducing the global carbon footprint by providing economic incentives for clean energy usage, thereby making green energy more financially attractive and accessible. Ultimately, our initiative empowers individuals to actively participate in a sustainable energy future, bridging the gap between renewable energy producers and consumers, and fostering a community committed to environmental stewardship.
 
+# What it does ?
+- **Aggregates Incentives:** RegenSolar acts as an aggregator, offering a platform that consolidates incentives for stakeholders switching to renewable energy.
+
+- **Provides Clear Information:** It provides clear information on financial rebates, tax credits, and other local incentives available for renewable energy systems. 
+
+- **Unlocks Additional Incentives:** Offers extra direct or indirect financial incentives through the use of RegenSolar sensors. 
+
+- **Empowers Informed Choices:**  Empowers individuals to make informed decisions about adopting renewable energy systems. 
+
+- **Reduces Upfront Costs:** Helps significantly reduce the upfront costs associated with renewable energy systems, making them more accessible.
+
+- **Advances Energy Revolution:** Facilitates progress toward an energy revolution by ensuring incentives for all stakeholders.
 
 # Workflow
 ![RegenSolar workflow](./public/regensolarv1.jpg)
