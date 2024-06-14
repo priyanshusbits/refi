@@ -4,7 +4,7 @@ RegenSolar introduces an innovative ecosystem to accelerate the adoption and gen
 
 
 # Workflow
-![RegenSolar workflow](./public/Regensolar.jpg)
+![RegenSolar workflow](./public/regensolarv1.jpg)
 
 
 # decentralized weather API Integration
