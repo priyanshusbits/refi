@@ -27,7 +27,7 @@ import {
   filecoinCalibration,
   sepolia,
   optimismSepolia,
-  celoAlfajores,
+  
   zora,
 } from "wagmi/chains";
 
@@ -47,7 +47,7 @@ const config = getDefaultConfig({
     },
   ],
   chains: [
-    polygonAmoy,optimismSepolia,
+   optimismSepolia,
     ...(process.env.NEXT_PUBLIC_ENABLE_TESTNETS === "true" ? [sepolia] : []),
   ],
   ssr: true,
